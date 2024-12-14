@@ -1,2 +1,2 @@
-echo # SaaS-AI-Companion-Practice
-# SaaS-AI-Companion-Practice
+echo # SaaS-AI-Companion
+# SaaS-AI-Companion
